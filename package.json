@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-data-va",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Virginia Open Data (datahub.va.gov) Socrata MCP.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-c7207cbae88b7b21c21f8194f0b8a17d151bd445164a25f8478fe96baece4901",
-    "sourceCommit": "8355bf3d1eece256a62a89dba2278e7a77bebe07"
+    "sourceHash": "v1-2671fec555ad796a43f8d4382d6a5c92c347fefe4d8c6ed9964e6885256667d2",
+    "sourceCommit": "01241619b78233fd55d0e3612331499a63f03ae7"
   }
 }
